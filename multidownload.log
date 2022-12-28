@@ -1,0 +1,819 @@
+20:03:21.871 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga  creada
+20:05:56.222 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga  creada
+18:22:05.689 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:22:05.700 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:22:05.742 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+18:22:05.746 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 iniciada
+18:22:05.747 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 creada
+18:22:05.751 [Thread-5] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 iniciada
+18:22:05.758 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json creada
+18:22:05.770 [Thread-6] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json iniciada
+18:22:07.063 [Thread-6] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json finalizada
+18:22:08.126 [Thread-5] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 finalizada
+18:22:15.975 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+18:22:19.060 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 finalizada
+18:24:33.141 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:24:33.164 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:24:34.475 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelada
+18:36:30.301 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:36:30.412 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:36:35.131 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+18:37:25.540 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:37:25.550 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:37:27.315 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelada
+18:39:44.989 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:39:45.000 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:39:48.065 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelada
+18:40:14.848 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:40:14.857 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:40:18.854 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+18:40:58.864 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:40:58.874 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:41:02.995 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+18:43:15.899 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:43:15.933 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:43:19.812 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelada
+18:43:45.975 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:43:45.985 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:43:49.909 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+18:53:22.576 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:53:22.580 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:53:28.863 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+18:53:44.394 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:53:44.404 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:53:48.066 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelada
+20:28:09.621 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+20:28:09.633 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+20:28:13.152 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelada
+20:29:29.631 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+20:29:29.642 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+20:29:29.651 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+20:29:29.655 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 iniciada
+20:29:29.656 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 creada
+20:29:29.660 [Thread-5] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 iniciada
+20:29:29.662 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json creada
+20:29:29.666 [Thread-6] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json iniciada
+20:29:30.174 [Thread-6] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json finalizada
+20:29:30.344 [Thread-5] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 finalizada
+20:29:36.167 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 cancelada
+20:29:36.167 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelada
+20:30:04.369 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+20:30:04.373 [Thread-7] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+20:30:04.373 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+20:30:04.376 [Thread-8] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 iniciada
+20:30:04.376 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 creada
+20:30:04.379 [Thread-9] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 iniciada
+20:30:04.458 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json creada
+20:30:04.461 [Thread-10] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json iniciada
+20:30:04.581 [Thread-10] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json finalizada
+20:30:05.114 [Thread-9] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 finalizada
+20:30:12.904 [Thread-7] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+20:30:14.596 [Thread-8] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 finalizada
+20:30:32.840 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+20:30:32.851 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+20:30:32.860 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+20:30:32.864 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 iniciada
+20:30:32.865 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 creada
+20:30:32.869 [Thread-5] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 iniciada
+20:30:32.871 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json creada
+20:30:32.874 [Thread-6] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json iniciada
+20:30:33.150 [Thread-6] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/json-example/master/animals-1.json finalizada
+20:30:33.556 [Thread-5] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 finalizada
+20:30:39.083 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+20:30:40.426 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 finalizada
+20:54:19.186 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga  creada
+20:57:30.114 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+20:57:30.124 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+20:57:35.039 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+20:58:30.447 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+20:58:30.458 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+20:58:35.404 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+21:00:04.270 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+21:00:04.280 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+21:00:08.700 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+21:02:07.464 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+21:02:07.474 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+21:02:11.902 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+21:44:49.051 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga  creada
+21:44:49.062 [JavaFX Application Thread] ERROR com.svalero.multidownloader.controller.DownloadController - URL mal formada
+java.net.MalformedURLException: no protocol: 
+	at com.svalero.multidownloader.controller.DownloadController.initialize(DownloadController.java:68) ~[classes/:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2655) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2548) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.load(FXMLLoader.java:2516) ~[javafx-fxml-19-win.jar:?]
+	at com.svalero.multidownloader.controller.AppController.launch(AppController.java:65) ~[classes/:?]
+	at com.svalero.multidownloader.controller.AppController.changeDirectory(AppController.java:46) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:77) ~[javafx-base-19-win.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:275) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1852) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1724) ~[javafx-fxml-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8923) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3894) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1887) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2620) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-19-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:551) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:937) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-19-win.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+21:45:53.761 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+21:45:53.766 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 iniciada
+21:45:55.921 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga  creada
+21:45:55.927 [JavaFX Application Thread] ERROR com.svalero.multidownloader.controller.DownloadController - URL mal formada
+java.net.MalformedURLException: no protocol: 
+	at com.svalero.multidownloader.controller.DownloadController.initialize(DownloadController.java:68) ~[classes/:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2655) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2548) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.load(FXMLLoader.java:2516) ~[javafx-fxml-19-win.jar:?]
+	at com.svalero.multidownloader.controller.AppController.launch(AppController.java:65) ~[classes/:?]
+	at com.svalero.multidownloader.controller.AppController.changeDirectory(AppController.java:46) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:77) ~[javafx-base-19-win.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:275) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1852) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1724) ~[javafx-fxml-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8923) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3894) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1887) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2620) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-19-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:551) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:937) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-19-win.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+21:45:57.178 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga  creada
+21:45:57.182 [JavaFX Application Thread] ERROR com.svalero.multidownloader.controller.DownloadController - URL mal formada
+java.net.MalformedURLException: no protocol: 
+	at com.svalero.multidownloader.controller.DownloadController.initialize(DownloadController.java:68) ~[classes/:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2655) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2548) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.load(FXMLLoader.java:2516) ~[javafx-fxml-19-win.jar:?]
+	at com.svalero.multidownloader.controller.AppController.launch(AppController.java:65) ~[classes/:?]
+	at com.svalero.multidownloader.controller.AppController.changeDirectory(AppController.java:46) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:77) ~[javafx-base-19-win.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:275) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1852) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1724) ~[javafx-fxml-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8923) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3894) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1887) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2620) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-19-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:551) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:937) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-19-win.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+21:45:58.869 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 finalizada
+21:53:41.117 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga  creada
+21:53:41.128 [JavaFX Application Thread] ERROR com.svalero.multidownloader.controller.DownloadController - URL mal formada
+java.net.MalformedURLException: no protocol: 
+	at com.svalero.multidownloader.controller.DownloadController.initialize(DownloadController.java:68) ~[classes/:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2655) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2548) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.load(FXMLLoader.java:2516) ~[javafx-fxml-19-win.jar:?]
+	at com.svalero.multidownloader.controller.AppController.launch(AppController.java:65) ~[classes/:?]
+	at com.svalero.multidownloader.controller.AppController.changeDirectory(AppController.java:46) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:77) ~[javafx-base-19-win.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:275) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1852) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1724) ~[javafx-fxml-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8923) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3894) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1887) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2620) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-19-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:551) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:937) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-19-win.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+21:59:17.855 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga  creada
+21:59:17.868 [JavaFX Application Thread] ERROR com.svalero.multidownloader.controller.DownloadController - URL mal formada
+java.net.MalformedURLException: no protocol: 
+	at com.svalero.multidownloader.controller.DownloadController.initialize(DownloadController.java:68) ~[classes/:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2655) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2548) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.load(FXMLLoader.java:2516) ~[javafx-fxml-19-win.jar:?]
+	at com.svalero.multidownloader.controller.AppController.launch(AppController.java:65) ~[classes/:?]
+	at com.svalero.multidownloader.controller.AppController.changeDirectory(AppController.java:46) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:77) ~[javafx-base-19-win.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:275) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1852) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1724) ~[javafx-fxml-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8923) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3894) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1887) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2620) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-19-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:551) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:937) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-19-win.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+21:59:20.786 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+21:59:20.792 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+21:59:23.229 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelada
+21:59:29.728 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+21:59:33.256 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+22:00:13.911 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+22:00:13.922 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+22:00:17.627 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+22:00:19.748 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+22:00:24.264 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+22:02:42.251 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+22:02:42.262 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+22:02:46.912 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelada
+22:10:50.192 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+22:10:50.203 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+22:10:55.567 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+22:31:13.174 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga  creada
+22:31:48.911 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+22:32:26.410 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga  creada
+22:32:26.419 [JavaFX Application Thread] ERROR com.svalero.multidownloader.controller.DownloadController - URL mal formada
+java.net.MalformedURLException: no protocol: 
+	at com.svalero.multidownloader.controller.DownloadController.initialize(DownloadController.java:68) ~[classes/:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2655) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2548) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.load(FXMLLoader.java:2516) ~[javafx-fxml-19-win.jar:?]
+	at com.svalero.multidownloader.controller.AppController.launch(AppController.java:65) ~[classes/:?]
+	at com.svalero.multidownloader.controller.AppController.launchDownload(AppController.java:38) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:77) ~[javafx-base-19-win.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:275) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1852) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1724) ~[javafx-fxml-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8923) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3894) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1887) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2620) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-19-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:551) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:937) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-19-win.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+22:33:07.223 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+22:34:37.895 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+22:34:37.906 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+22:34:41.822 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+22:35:32.167 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga  creada
+22:35:32.178 [JavaFX Application Thread] ERROR com.svalero.multidownloader.controller.DownloadController - URL mal formada
+java.net.MalformedURLException: no protocol: 
+	at com.svalero.multidownloader.controller.DownloadController.initialize(DownloadController.java:68) ~[classes/:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2655) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2548) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.load(FXMLLoader.java:2516) ~[javafx-fxml-19-win.jar:?]
+	at com.svalero.multidownloader.controller.AppController.launch2(AppController.java:92) ~[classes/:?]
+	at com.svalero.multidownloader.controller.AppController.changeDirectory(AppController.java:46) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:77) ~[javafx-base-19-win.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:275) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1852) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1724) ~[javafx-fxml-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8923) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3894) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1887) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2620) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-19-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:551) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:937) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-19-win.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+17:19:02.696 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+17:19:26.677 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+17:20:20.969 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+17:20:31.064 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga  creada
+17:20:31.070 [JavaFX Application Thread] ERROR com.svalero.multidownloader.controller.DownloadController - URL mal formada
+java.net.MalformedURLException: no protocol: 
+	at com.svalero.multidownloader.controller.DownloadController.initialize(DownloadController.java:68) ~[classes/:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2655) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2548) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.load(FXMLLoader.java:2516) ~[javafx-fxml-19-win.jar:?]
+	at com.svalero.multidownloader.controller.AppController.launch2(AppController.java:92) ~[classes/:?]
+	at com.svalero.multidownloader.controller.AppController.changeDirectory(AppController.java:46) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:77) ~[javafx-base-19-win.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:275) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1852) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1724) ~[javafx-fxml-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8923) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3894) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1887) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2620) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-19-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:551) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:937) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-19-win.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+17:20:51.011 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga  creada
+17:20:51.023 [JavaFX Application Thread] ERROR com.svalero.multidownloader.controller.DownloadController - URL mal formada
+java.net.MalformedURLException: no protocol: 
+	at com.svalero.multidownloader.controller.DownloadController.initialize(DownloadController.java:68) ~[classes/:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2655) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.loadImpl(FXMLLoader.java:2548) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader.load(FXMLLoader.java:2516) ~[javafx-fxml-19-win.jar:?]
+	at com.svalero.multidownloader.controller.AppController.launch2(AppController.java:92) ~[classes/:?]
+	at com.svalero.multidownloader.controller.AppController.changeDirectory(AppController.java:46) ~[classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:77) ~[javafx-base-19-win.jar:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:275) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1852) ~[javafx-fxml-19-win.jar:?]
+	at javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1724) ~[javafx-fxml-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Node.fireEvent(Node.java:8923) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.control.Button.fire(Button.java:203) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274) ~[javafx-controls-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74) ~[javafx-base-19-win.jar:?]
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54) ~[javafx-base-19-win.jar:?]
+	at javafx.event.Event.fireEvent(Event.java:198) ~[javafx-base-19-win.jar:?]
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3894) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1887) ~[javafx-graphics-19-win.jar:?]
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2620) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301) ~[javafx-graphics-19-win.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:551) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.View.notifyMouse(View.java:937) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method) ~[javafx-graphics-19-win.jar:?]
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184) ~[javafx-graphics-19-win.jar:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+17:21:01.610 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+17:55:15.855 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+17:55:25.937 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+17:55:31.997 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+17:55:32.004 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga BigBuckBunny.mp4 ha sido finalizada con exito.
+17:55:49.272 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+17:55:51.284 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 iniciada
+17:55:55.685 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 finalizada
+17:55:55.687 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga ElephantsDream.mp4 ha sido finalizada con exito.
+17:59:28.005 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+17:59:30.116 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+17:59:33.597 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+17:59:33.600 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga BigBuckBunny.mp4 ha sido finalizada con exito.
+18:00:45.175 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:00:45.861 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:00:47.024 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelada
+18:01:35.800 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:01:38.119 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:01:40.146 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelada
+18:02:48.812 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:02:49.520 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:02:52.354 [Thread-3] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelada.
+18:06:53.280 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:06:55.012 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:06:59.626 [Thread-3] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelada.
+18:12:53.231 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:12:54.081 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:12:59.556 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+18:12:59.557 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga BigBuckBunny.mp4 ha sido finalizada con exito.

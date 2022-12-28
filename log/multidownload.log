@@ -1,0 +1,53 @@
+18:18:50.231 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:18:51.427 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:18:55.904 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+18:18:55.906 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga BigBuckBunny.mp4 ha sido finalizada con exito.
+18:24:48.118 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:24:48.139 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+18:24:48.145 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 creada
+18:24:48.153 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/jsn-example/master/animals-1.json creada
+18:24:50.402 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:24:51.909 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 iniciada
+18:24:53.291 [Thread-5] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 iniciada
+18:24:54.516 [Thread-6] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/jsn-example/master/animals-1.json iniciada
+18:24:55.499 [Thread-5] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 finalizada
+18:24:56.097 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga ForBiggerEscapes.mp4 ha sido finalizada con exito.
+18:24:56.458 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+18:24:56.460 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga BigBuckBunny.mp4 ha sido finalizada con exito.
+18:24:56.840 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga animals-1.json fallida.
+18:25:01.136 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 finalizada
+18:25:01.137 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga ElephantsDream.mp4 ha sido finalizada con exito.
+18:30:42.418 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:30:43.977 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:30:46.237 [Thread-3] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelada.
+18:30:49.687 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:30:53.764 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+18:30:53.776 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga BigBuckBunny.mp4 ha sido finalizada con exito.
+18:32:38.719 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:32:38.738 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 creada
+18:32:38.744 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 creada
+18:32:38.752 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/jsn-example/master/animals-1.json creada
+18:32:40.022 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:32:41.910 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 iniciada
+18:32:43.523 [Thread-5] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 iniciada
+18:32:44.405 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+18:32:44.417 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga BigBuckBunny.mp4 ha sido finalizada con exito.
+18:32:45.603 [Thread-5] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4 finalizada
+18:32:45.605 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga ForBiggerEscapes.mp4 ha sido finalizada con exito.
+18:32:47.040 [Thread-6] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga https://raw.githubusercontent.com/LearnWebCode/jsn-example/master/animals-1.json iniciada
+18:32:47.774 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga animals-1.json fallida.
+18:32:47.894 [Thread-4] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 finalizada
+18:32:47.895 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga ElephantsDream.mp4 ha sido finalizada con exito.
+18:35:25.174 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:35:26.290 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - ObjectProperty [bean: com.svalero.multidownloader.task.DownloadTask@44efe8a9[Not completed, task = javafx.concurrent.Task$TaskCallable@7451b769], name: state, value: SCHEDULED]
+18:35:26.290 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:35:26.292 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - ObjectProperty [bean: com.svalero.multidownloader.task.DownloadTask@44efe8a9[Not completed, task = javafx.concurrent.Task$TaskCallable@7451b769], name: state, value: RUNNING]
+18:35:28.404 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - ObjectProperty [bean: com.svalero.multidownloader.task.DownloadTask@44efe8a9[Cancelled], name: state, value: CANCELLED]
+18:35:28.414 [Thread-3] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelada.
+18:38:45.108 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 creada
+18:38:50.517 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - ObjectProperty [bean: com.svalero.multidownloader.task.DownloadTask@395f2ea2[Not completed, task = javafx.concurrent.Task$TaskCallable@690a9e7d], name: state, value: SCHEDULED]
+18:38:50.518 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 iniciada
+18:38:50.519 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - ObjectProperty [bean: com.svalero.multidownloader.task.DownloadTask@395f2ea2[Not completed, task = javafx.concurrent.Task$TaskCallable@690a9e7d], name: state, value: RUNNING]
+18:38:54.670 [Thread-3] TRACE com.svalero.multidownloader.controller.DownloadController - Descarga http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 finalizada
+18:38:54.670 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - ObjectProperty [bean: com.svalero.multidownloader.task.DownloadTask@395f2ea2[Not completed, task = javafx.concurrent.Task$TaskCallable@690a9e7d], name: state, value: SUCCEEDED]
+18:38:54.683 [JavaFX Application Thread] INFO  com.svalero.multidownloader.controller.DownloadController - Descarga BigBuckBunny.mp4 ha sido finalizada con exito.
