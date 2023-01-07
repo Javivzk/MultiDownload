@@ -21,7 +21,7 @@
             <AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="0.0" minWidth="0.0" prefHeight="372.0" prefWidth="638.0">
                <children>
                   <TextField fx:id="tfUrl" layoutX="12.0" layoutY="45.0" prefHeight="26.0" prefWidth="611.0" AnchorPane.leftAnchor="12.0" AnchorPane.rightAnchor="4.666666666666629" />
-                  <Text fx:id="txtDw" layoutX="12.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Introduce la direccion de la descarga" wrappingWidth="191.73672103881836" AnchorPane.leftAnchor="12.0" AnchorPane.rightAnchor="424.26327896118164" />
+                  <Text fx:id="txtDw" layoutX="12.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Direccion de la descarga" wrappingWidth="191.73672103881836" AnchorPane.leftAnchor="12.0" AnchorPane.rightAnchor="12.0" />
                   <Button fx:id="btDownload" layoutX="14.0" layoutY="78.0" mnemonicParsing="false" onAction="#startDownload" prefHeight="26.0" prefWidth="200.0" text="Descargar" AnchorPane.leftAnchor="14.0" />
                   <Button fx:id="btDownloadDlc" layoutX="219.0" layoutY="78.0" mnemonicParsing="false" onAction="#launchFileDownload" prefHeight="26.0" prefWidth="200.0" text="Descargar desde DLC" />
                   <Button fx:id="btCancelAll" layoutX="423.0" layoutY="78.0" mnemonicParsing="false" onAction="#stopAllDownloads" prefHeight="26.0" prefWidth="200.0" text="Cancelar todas las descargas" AnchorPane.rightAnchor="15.0" />
