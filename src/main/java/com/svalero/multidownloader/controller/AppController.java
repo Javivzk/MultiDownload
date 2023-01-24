@@ -21,6 +21,8 @@ import java.util.Scanner;
 public class AppController {
 
     public TextField tfUrl;
+    public TextField timerInput;
+
     public Button btDownload;
     public TabPane tpDownloads;
 
@@ -58,12 +60,13 @@ public class AppController {
             downloadController.stop();
     }
 
+    // Carga de la ventana de descarga
     private void launch(String url) {
         try {
             FXMLLoader loader = new FXMLLoader();
             loader.setLocation(R.getUI("download.fxml"));
 
-            DownloadController downloadController = new DownloadController(url);
+            DownloadController downloadController = new DownloadController(url, Integer.parseInt(timerInput.getText()));
             loader.setController(downloadController);
             VBox downloadBox = loader.load();
 
@@ -76,6 +79,7 @@ public class AppController {
         }
     }
 
+    // Abrir Log
     @FXML
     public void openLog(ActionEvent actionEvent) throws IOException, IllegalArgumentException {
         if (Desktop.isDesktopSupported()) {

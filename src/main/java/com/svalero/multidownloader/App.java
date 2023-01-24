@@ -1,13 +1,16 @@
 package com.svalero.multidownloader;
 
 import com.svalero.multidownloader.controller.AppController;
+import com.svalero.multidownloader.controller.SplashController;
 import com.svalero.multidownloader.util.R;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.scene.control.ScrollPane;
+import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
+import javafx.stage.StageStyle;
 
 public class App extends Application {
 
@@ -19,14 +22,15 @@ public class App extends Application {
     @Override
     public void start(Stage stage) throws Exception {
         FXMLLoader loader = new FXMLLoader();
+        loader.setLocation(R.getUI("splashScreen.fxml"));
+        loader.setController(new SplashController());
 
-        loader.setLocation(R.getUI("multidownload-2.fxml"));
-        loader.setController(new AppController());
-        VBox vbox = loader.load();
+        AnchorPane anchorPane = loader.load();
 
-        Scene scene = new Scene(vbox);
+        Scene scene = new Scene(anchorPane);
+
+        stage.initStyle(StageStyle.UNDECORATED);
         stage.setScene(scene);
-        stage.setTitle("MultiDownloader");
         stage.show();
     }
 

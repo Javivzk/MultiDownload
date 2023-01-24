@@ -1,6 +1,10 @@
 com\svalero\multidownloader\App.class
-com\svalero\multidownloader\controller\AppController.class
 com\svalero\multidownloader\controller\DownloadController.class
-com\svalero\multidownloader\controller\DownloadController$1.class
 com\svalero\multidownloader\task\DownloadTask.class
+com\svalero\multidownloader\controller\SplashController$SplashScreen.class
+com\svalero\multidownloader\controller\AppController.class
+com\svalero\multidownloader\controller\DownloadController$1.class
+com\svalero\multidownloader\controller\DownloadController$2.class
 com\svalero\multidownloader\util\R.class
+com\svalero\multidownloader\controller\SplashController$SplashScreen$1.class
+com\svalero\multidownloader\controller\SplashController.class

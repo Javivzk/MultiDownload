@@ -20,6 +20,7 @@ import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ResourceBundle;
+import java.util.concurrent.atomic.AtomicBoolean;
 
 public class DownloadController implements Initializable {
 
@@ -27,6 +28,9 @@ public class DownloadController implements Initializable {
     public TextField tfFileName;
     public Button btStart;
     public Button btPause;
+
+    public Button btCancel;
+
     public ProgressBar pbProgress;
     public Label lbStatus;
     public Label lbProgressSize;
@@ -37,32 +41,40 @@ public class DownloadController implements Initializable {
     private DirectoryChooser directoryChooser = new DirectoryChooser();
     private JSONArray message;
 
+    private AtomicBoolean downloadPaused = new AtomicBoolean(false);
+
+
+    private int timerInput;
+
     private static final Logger logger = LogManager.getLogger(DownloadController.class);
 
-    public DownloadController(String urlText) {
+    public DownloadController(String urlText, int timerInput) {
         logger.info("Descarga " + urlText + " creada");
         this.urlTxt = urlText;
+        this.timerInput = timerInput;
     }
 
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
-        //Conseguimos el directorio del usuario y añadimos la carpeta de descargas
+        // Conseguimos el directorio del user y se añade la carpeta de descargas
         String downloadsFolder = System.getProperty("user.home") + File.separator + "Downloads" + File.separator;
 
         //Extraemos el nombre del archivo a descargar
         String fileName = urlTxt.substring(urlTxt.lastIndexOf("/") + 1);
 
-        //Escribimos el nombre del archivo en el cuadro de texto
+        // Pintamos el nombre del archivo en el cuadro de texto
         tfFileName.setText(fileName);
 
-        //Escribimos el directorio donde se va a guardar el archivo
+        // Establecemos el directorio donde se guarda el archivo
         tfURL.setText(downloadsFolder);
         directoryChooser.setInitialDirectory(new File(downloadsFolder));
 
-        //Desactivamos el boton de pausa ya que no hay descarga iniciada
+        //Desactivamos botones cuando no tenemos descargas iniciadas
         btPause.setDisable(true);
+        btCancel.setDisable(true);
 
-        //Añadimos un evento si pulsamos el cuadro de texto del directorio de descarga
+
+        //Añadimos un evento para elegir el directorio de descarga al pulsar el boton
         tfURL.setOnMouseClicked(new EventHandler<MouseEvent>() {
             public void handle(MouseEvent event) {
                 // Abrimos un cuadro de dialogo de seleccion de directorio
@@ -88,17 +100,20 @@ public class DownloadController implements Initializable {
             if (downloadFile == null) {
                 //Desactivamos el boton de pausa
                 btPause.setDisable(true);
+                btCancel.setDisable(true);
                 return;
             }
 
             //Desactivamos el boton de Iniciar y activamos el de Pausa
             btPause.setDisable(false);
             btStart.setDisable(true);
+            btCancel.setDisable(false);
+
 
             //Creamos la tarea de la descarga
-            downloadTask = new DownloadTask(urlTxt, downloadFile);
+            downloadTask = new DownloadTask(urlTxt, downloadFile, downloadPaused);
 
-            //Bindeamos la barra de progreso a el progreso de la tarea
+            //Pintamos la barra de progreso
             pbProgress.progressProperty().unbind();
             pbProgress.progressProperty().bind(downloadTask.progressProperty());
 
@@ -110,8 +125,10 @@ public class DownloadController implements Initializable {
                     logger.info("Descarga " + tfFileName.getText() + " ha sido finalizada con exito.");
                     alert.setContentText("La descarga " + tfFileName.getText() + " ha finalizado correctamente.");
                     alert.show();
-                    btStart.setDisable(false);
+                    btStart.setDisable(true);
                     btPause.setDisable(true);
+                    btCancel.setDisable(true);
+
                 } else if(newState == Worker.State.FAILED){
                     logger.info("Descarga " + tfFileName.getText() + " fallida.");
                     Alert alert = new Alert(Alert.AlertType.ERROR);
@@ -119,14 +136,16 @@ public class DownloadController implements Initializable {
                     alert.show();
                     btStart.setDisable(false);
                     btPause.setDisable(true);
+                    btCancel.setDisable(true);
                 } else if (newState == Worker.State.CANCELLED) {
                     btStart.setDisable(false);
                     btPause.setDisable(true);
+                    btCancel.setDisable(true);
                 }
 
             });
 
-            //Vamos actualizado el progreso de la descarga
+            //Actualizamos el progreso de la descarga
             downloadTask.messageProperty().addListener((observableValue, oldValue, newValue) -> {
                 message = new JSONArray(newValue);
                 lbStatus.setText(message.get(2).toString());
@@ -135,8 +154,16 @@ public class DownloadController implements Initializable {
 
             });
 
-            //Creamos el hilo de la descarga
-            new Thread(downloadTask).start();
+            // Timer para iniciar descarga e hilo
+            new java.util.Timer().schedule(
+                    new java.util.TimerTask(){
+                        @Override
+                        public void run(){
+                            new Thread(downloadTask).start();
+                        }
+                    },
+                    1000*this.timerInput
+            );
 
         } catch (MalformedURLException murle){
             murle.printStackTrace();
@@ -145,8 +172,17 @@ public class DownloadController implements Initializable {
     }
 
     @FXML
-    public void pauseDownload(ActionEvent actionEvent){
-        stop();
+    public void pauseDownload(ActionEvent actionEvent) throws InterruptedException {
+        if(downloadPaused.get()){
+            btPause.setText("Pausar");
+            downloadPaused.set(false);
+            synchronized (downloadTask) {
+                downloadTask.notify();
+            }
+        } else {
+            btPause.setText("Reanudar");
+            downloadPaused.set(true);
+        }
     }
 
     @FXML
@@ -154,10 +190,18 @@ public class DownloadController implements Initializable {
 
     }
 
+    @FXML
+    public void cancelDownload(ActionEvent actionEvent){
+        stop();
+    }
+
     public void stop(){
         if(downloadTask != null){
             downloadTask.cancel();
             btStart.setDisable(false);
+            lbStatus.setText("");
+            lbSize.setText("");
+            lbProgressSize.setText("");
         }
     }
 }

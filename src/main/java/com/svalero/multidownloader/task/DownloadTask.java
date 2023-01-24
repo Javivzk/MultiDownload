@@ -16,20 +16,26 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.time.Duration;
 import java.time.Instant;
+import java.util.concurrent.atomic.AtomicBoolean;
 
 public class DownloadTask extends Task<Integer> {
 
     private URL url;
     private File file;
 
+    private AtomicBoolean downloadPaused;
+
+
     private JSONArray message = new JSONArray();
 
 
     private static final Logger logger = LogManager.getLogger(DownloadController.class);
 
-    public DownloadTask(String urlText, File file) throws MalformedURLException {
+    public DownloadTask(String urlText, File file, AtomicBoolean downloadPaused) throws MalformedURLException {
         this.url = new URL(urlText);
         this.file = file;
+        this.downloadPaused = downloadPaused;
+
     }
 
     @Override
@@ -62,9 +68,14 @@ public class DownloadTask extends Task<Integer> {
 
 
         while ((bytesRead = in.read(dataBuffer)) != -1){
+            if(downloadPaused.get()){
+                synchronized (this) {
+                    this.wait();
+                }
+            }
 
             // Comentar para acelerar la descarga.
-            //Thread.sleep(1);
+            Thread.sleep(1);
 
             //Escribe la secuencia de bytes en el archivo local
 
